@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Luan Milagre
 
-<!--
-**luanmilagre/luanmilagre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🐍 Desenvolvedor em formação com foco em **Python**  
+⚙️ Experiência prática com **automação, web scraping, análise de dados e machine learning**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Meus projetos mais recentes
+
+- 🔗 [Classificador de Engajamento com IA](https://github.com/luanmilagre/classificador-ia-engajamento)
+- 🔗 [Automação com filtro de clientes](https://github.com/luanmilagre/automacao-filtro-clientes)
+- 🔗 [Scraper de frases com BeautifulSoup](https://github.com/luanmilagre/scraper-frases-python)
+
+---
+
+## 📚 Atualmente estudando:
+
+- FastAPI para criação de APIs
+- GitHub Actions e Deploy
+- Django + MongoDB
+- Projetos reais para Workana e 99Freelas
+
+---
+
+## 📬 Me encontre também:
+
+[LinkedIn](https://www.linkedin.com/in/luan-milagre-5689a8307 )  
+[Portfólio pessoal](#) (em breve)
+
+---
