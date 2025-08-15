@@ -10,7 +10,7 @@
 
 - 🔗 [Classificador de Engajamento com IA](https://github.com/luanmilagre/classificador-ia-engajamento)
 - 🔗 [Automação com filtro de clientes](https://github.com/luanmilagre/automacao-filtro-clientes)
-- 🔗 [Scraper de frases com BeautifulSoup](https://github.com/luanmilagre/scraper-frases-python)
+- 🔗 [Scraper de frases com BeautifulSoup]([https://github.com/luanmilagre/scraper-frases-python](https://github.com/luanmilagre/projeto-scraper-citacoes))
 
 ---
 
