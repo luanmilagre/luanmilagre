@@ -34,8 +34,8 @@ Atualmente trabalho na área de logística, mas estou em **transição de carrei
 
 ## 📂 Projetos Recentes
 
-🔹 [**Sabor & Arte**](https://luanmilagre.github.io/sabor-arte/) — site de restaurante com HTML e CSS  
-🔹 [**Global Idiomas**](https://luanmilagre.github.io/global-idiomas/) — site institucional de escola de idiomas  
+🔹 [**Sabor & Arte**](https://github.com/luanmilagre/projeto_restaurante) — site de restaurante com HTML e CSS  
+🔹 [**Global Idiomas**](https://github.com/luanmilagre/projeto_idiomas) — site institucional de escola de idiomas  
 
 *(Mais projetos em breve! 🚧)*
 
